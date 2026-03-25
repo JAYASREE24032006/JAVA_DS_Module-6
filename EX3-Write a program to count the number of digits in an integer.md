@@ -4,16 +4,25 @@
 To write a java program to count the number of digits in an integer.
 
 ## Algorithm
+
 1.Start the Program
+
 2. Read an integer input num from the user.
+   
 3. If num is equal to 0, then the number has 1 digit.
+   
 4. Convert num to its absolute value to handle negative numbers.
+
 5. Initialize a counter variable count = 0.
+
 6. Repeat the following steps while num > 0:
 Divide num by 10 (integer division).
 Increment count by 1.
-7. After the loop ends, count will contain the number of digits.
-8.  Display the value of count.
+
+7. After the loop ends, count will contain the number of digits.9
+
+8. Display the value of count.
+
 9. End the program.  
 
 ## Program:
