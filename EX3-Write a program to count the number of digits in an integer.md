@@ -5,7 +5,7 @@ To write a java program to count the number of digits in an integer.
 
 ## Algorithm
 
-1.Start the Program
+1. Start the Program
 
 2. Read an integer input num from the user.
    
